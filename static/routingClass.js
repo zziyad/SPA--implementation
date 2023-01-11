@@ -4,7 +4,6 @@ class Routing {
   constructor() {
     this.#routing = null;
     this.match = null;
-    // this.window = w;
   }
 
   async init() {
