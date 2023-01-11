@@ -60,7 +60,7 @@ const scaffold = (url) => {
 document.addEventListener('DOMContentLoaded', async () => {
   const api = await scaffold('http://localhost:8001')({
     auth: {
-      signin: ['login', 'password'],
+      signin: [],
       signout: [],
       restore: ['token'],
     },
@@ -68,6 +68,9 @@ document.addEventListener('DOMContentLoaded', async () => {
       method: ['arg'],
     },
   });
+
+  const data = await api.auth.signin();
+  console.dir({ data });
 
   window.api = api;
   rout.init();
