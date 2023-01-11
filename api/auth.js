@@ -1,9 +1,9 @@
 ({
   // eslint-disable-next-line no-unused-vars
-  async signin({ login, password }) {
-    console.log({ method: 'auth.signin', login, password });
+  async signin() {
+    // console.log({ method: 'auth.signin', login, password });
     // return { status: 'ok', token: '--no-token-provided--' };
-    return '<h1>POST FROM API</h1>';
+    return { view: '<h1>POST FROM API</h1>' };
   },
 
   async signout() {

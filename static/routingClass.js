@@ -34,11 +34,11 @@ class Routing {
   }
 
   async getRoutes() {
-    const data = await window.api.auth.signout();
+    const data = await window.api.auth.signin();
 
     return this.#routing = [
       { path: '/', view: '<h1>HOME</h1>' },
-      { path: '/posts', view: data },
+      { path: '/posts', view: data.view },
       // { path: "/posts/:id", view: PostView },
       { path: '/settings', view: '<h1>SETTING</h1>' },
       { path: '/Notfound', view: '<h1>NOT FOUND</h1>' },

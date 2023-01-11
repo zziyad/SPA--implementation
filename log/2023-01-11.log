@@ -89,3 +89,65 @@
 2023-01-11T11:20:18	{ method: 'auth.signout' }
 2023-01-11T11:20:48	::1 signout /api/auth/signout
 2023-01-11T11:20:48	{ method: 'auth.signout' }
+2023-01-11T11:46:57	Static on port 8000
+2023-01-11T11:46:57	API on port 8001
+2023-01-11T11:47:00	::1 signout /api/auth/signout
+2023-01-11T11:47:00	{ method: 'auth.signout' }
+2023-01-11T11:48:19	::1 signin /api/auth/signin
+2023-01-11T11:48:19	{ method: 'auth.signin', login: undefined, password: undefined }
+2023-01-11T11:50:54	Static on port 8000
+2023-01-11T11:50:54	API on port 8001
+2023-01-11T11:50:56	::1 signin /api/auth/signin
+2023-01-11T11:50:56	{ method: 'auth.signin', login: undefined, password: undefined }
+2023-01-11T11:50:56	::1 signin /api/auth/signin
+2023-01-11T11:50:56	{ method: 'auth.signin', login: undefined, password: undefined }
+2023-01-11T11:53:14	Static on port 8000
+2023-01-11T11:53:14	API on port 8001
+2023-01-11T11:53:22	::1 signin /api/auth/signin
+2023-01-11T11:53:22	{ method: 'auth.signin', login: undefined, password: undefined }
+2023-01-11T11:53:22	::1 signin /api/auth/signin
+2023-01-11T11:53:22	{ method: 'auth.signin', login: undefined, password: undefined }
+2023-01-11T11:54:38	Static on port 8000
+2023-01-11T11:54:38	API on port 8001
+2023-01-11T11:54:41	::1 signin /api/auth/signin
+2023-01-11T11:54:41	{ method: 'auth.signin', login: undefined, password: undefined }
+2023-01-11T11:54:41	::1 signin /api/auth/signin
+2023-01-11T11:54:41	{ method: 'auth.signin', login: undefined, password: undefined }
+2023-01-11T11:54:53	::1 signin /api/auth/signin
+2023-01-11T11:54:53	{ method: 'auth.signin', login: undefined, password: undefined }
+2023-01-11T11:54:53	::1 signin /api/auth/signin
+2023-01-11T11:54:53	{ method: 'auth.signin', login: undefined, password: undefined }
+2023-01-11T11:55:40	Static on port 8000
+2023-01-11T11:55:40	API on port 8001
+2023-01-11T11:55:43	::1 signin /api/auth/signin
+2023-01-11T11:55:43	{; method: 'auth.signin',; login: [ 'marcus', 'marcus' ],; password: undefined; }
+2023-01-11T11:55:43	::1 signin /api/auth/signin
+2023-01-11T11:55:43	{; method: 'auth.signin',; login: [ 'marcus', 'marcus' ],; password: undefined; }
+2023-01-11T11:57:02	Static on port 8000
+2023-01-11T11:57:02	API on port 8001
+2023-01-11T11:57:23	Static on port 8000
+2023-01-11T11:57:23	API on port 8001
+2023-01-11T11:57:27	::1 signin /api/auth/signin
+2023-01-11T11:57:27	::1 signin /api/auth/signin
+2023-01-11T11:57:28	::1 signin /api/auth/signin
+2023-01-11T11:57:28	::1 signin /api/auth/signin
+2023-01-11T11:57:28	::1 signin /api/auth/signin
+2023-01-11T11:57:28	::1 signin /api/auth/signin
+2023-01-11T11:57:28	::1 signin /api/auth/signin
+2023-01-11T11:57:28	::1 signin /api/auth/signin
+2023-01-11T11:57:29	::1 signin /api/auth/signin
+2023-01-11T11:57:29	::1 signin /api/auth/signin
+2023-01-11T11:57:50	Static on port 8000
+2023-01-11T11:57:50	API on port 8001
+2023-01-11T11:57:52	::1 signin /api/auth/signin
+2023-01-11T11:57:52	::1 signin /api/auth/signin
+2023-01-11T11:57:53	::1 signin /api/auth/signin
+2023-01-11T11:57:53	::1 signin /api/auth/signin
+2023-01-11T11:57:53	::1 signin /api/auth/signin
+2023-01-11T11:57:53	::1 signin /api/auth/signin
+2023-01-11T11:57:53	::1 signin /api/auth/signin
+2023-01-11T11:57:53	::1 signin /api/auth/signin
+2023-01-11T11:57:53	::1 signin /api/auth/signin
+2023-01-11T11:57:54	::1 signin /api/auth/signin
+2023-01-11T11:57:54	::1 signin /api/auth/signin
+2023-01-11T11:57:54	::1 signin /api/auth/signin
